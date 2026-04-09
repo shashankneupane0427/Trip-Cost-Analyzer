@@ -1,16 +1,16 @@
-# React + Vite
+# Trip Cost Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="./cover.png" alt="Cover Image" width="100%" height="auto">
 
-Currently, two official plugins are available:
+A clean, lightweight web application designed to help riders estimate expenses for their next journey. By inputting vehicle mileage and mapping out routes, users can instantly calculate projected fuel costs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Distance Mapping:** Trace your intended route to get accurate mileage.
+* **Fuel Calculation:** Real-time cost estimation based on fuel prices and bike efficiency.
+* **Minimalist UI:** A distraction-free interface built for quick calculations.
+* **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
